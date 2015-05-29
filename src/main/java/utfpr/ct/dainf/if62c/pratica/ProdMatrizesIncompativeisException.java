@@ -1,4 +1,4 @@
-package utfpr.dainf.if62c.pratica;
+package utfpr.ct.dainf.if62c.pratica;
 
 public class ProdMatrizesIncompativeisException extends MatrizesIncompativeisException {
 

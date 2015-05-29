@@ -1,5 +1,5 @@
 
-package utfpr.dainf.if62c.pratica;
+package utfpr.ct.dainf.if62c.pratica;
 
 public class MatrizesIncompativeisException extends Exception{
     private final Matriz matrizA;

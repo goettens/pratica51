@@ -1,6 +1,9 @@
+import utfpr.ct.dainf.if62c.pratica.Matriz;
+import utfpr.ct.dainf.if62c.pratica.ProdMatrizesIncompativeisException;
+import utfpr.ct.dainf.if62c.pratica.MatrizInvalidaException;
+import utfpr.ct.dainf.if62c.pratica.SomaMatrizesIncompativeisException;
 import java.util.logging.Level;
 import java.util.logging.Logger;
-import utfpr.dainf.if62c.pratica.*;
 
 /**
  * IF62C Fundamentos de Programação 2
